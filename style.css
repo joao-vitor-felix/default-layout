@@ -18,9 +18,6 @@ body {
 }
 
 .zone {
-  /* padding: 30px 50px;
-  margin: 40px 60px; */
-  cursor: pointer;
   display: inline-block;
   color: #fff;
   font-size: 2em;
@@ -43,6 +40,7 @@ body {
 }
 
 .navbar li {
+  cursor: pointer;
   margin-left: 15px;
   padding-left: 15px;
   font-size: 1.3rem;
